@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+      "description": {
+      "identifier": "com_cob_dep_to_com_dep_1"
+      },
+  
+      
+      "tags": ["furnace"],
+      "input": "dm:com_cob_dep_1",
+      "output": "dm:com_dep_1"
+    }
+    
+  }

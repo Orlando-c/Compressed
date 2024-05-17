@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "com_ande_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:andesite",
+          "data": 0
+        }
+      },
+      "result": {
+        "item": "dm:com_ande_1",
+        "count": 1
+      }
+    }
+  }

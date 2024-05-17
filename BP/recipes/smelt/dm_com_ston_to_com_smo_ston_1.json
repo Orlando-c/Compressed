@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+      "description": {
+      "identifier": "com_ston_to_com_smo_ston_1"
+      },
+  
+      
+      "tags": ["furnace"],
+      "input": "dm:com_ston_1",
+      "output": "dm:com_smo_ston_1"
+    }
+    
+  }

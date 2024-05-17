@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+      "description": {
+        "identifier": "dm_back_to_che_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "ingredients": [
+        {
+          "item": "dm:com_che_1",
+          "data": 0
+        }
+      ],
+      "result": {
+        "item": "minecraft:cherry_log",
+        "count": 9,
+        "data": 0
+      }
+    }
+  }

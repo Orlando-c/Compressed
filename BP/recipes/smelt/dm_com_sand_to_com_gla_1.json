@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+      "description": {
+      "identifier": "com_sand_to_com_gla"
+      },
+  
+      
+      "tags": ["furnace"],
+      "input": "dm:com_sand_1",
+      "output": "dm:com_gla_1"
+    }
+    
+  }

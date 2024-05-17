@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dm_back_to_net_1"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "dm:com_net_1",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:netherrack",
+      "count": 9,
+      "data": 0
+    }
+  }
+}

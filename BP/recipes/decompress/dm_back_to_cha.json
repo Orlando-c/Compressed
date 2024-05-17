@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+      "description": {
+        "identifier": "dm_back_to_cha_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "ingredients": [
+        {
+          "item": "dm:charcoal_block",
+          "data": 0
+        }
+      ],
+      "result": {
+        "item": "minecraft:charcoal",
+        "count": 9,
+        "data": 0
+      }
+    }
+  }

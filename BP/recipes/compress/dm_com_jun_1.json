@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "com_jun_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:jungle_log",
+          "data": 0
+        }
+      },
+      "result": {
+        "item": "dm:com_jun_1",
+        "count": 1
+      }
+    }
+  }

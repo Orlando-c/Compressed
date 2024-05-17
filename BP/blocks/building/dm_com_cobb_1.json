@@ -1,0 +1,29 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "dm:com_cob_1",
+			"menu_category": {
+				"category": "construction"
+			}
+		},
+		"components": {
+      "minecraft:loot": "loot_tables/blocks/dm_com_cob_1.json",
+			"minecraft:collision_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"tag:stone": {},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 6
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "dm:com_cob_1",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:map_color": "#A7A7A7"
+		}
+	}
+}

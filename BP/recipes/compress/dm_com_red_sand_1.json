@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "com_red_sand_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:red_sand",
+          "data": 0
+        }
+      },
+      "result": {
+        "item": "dm:com_red_sand_1",
+        "count": 1
+      }
+    }
+  }

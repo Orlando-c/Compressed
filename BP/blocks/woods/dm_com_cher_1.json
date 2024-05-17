@@ -1,0 +1,32 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "dm:com_che_1",
+			"menu_category": {
+				"category": "construction"
+			}
+		},
+		"components": {
+      "minecraft:loot": "loot_tables/blocks/dm_com_che_1.json",
+			"minecraft:collision_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 2
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "dm:com_che_1",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:flammable": {
+				"destroy_chance_modifier": 45,
+				"catch_chance_modifier": 80
+			},
+			"minecraft:map_color": "#F27FA5"
+		}
+	}
+}

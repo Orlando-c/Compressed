@@ -1,0 +1,107 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "dm_com_cob_1": {
+      "textures": [
+        "textures/blocks/dm_com_cob_1"
+      ]
+    },
+    "dm_com_dir_1": {
+      "textures": [
+        "textures/blocks/dm_com_dir_1"
+      ]
+    },
+    "dm_com_cob_dep_1": {
+      "textures": [
+        "textures/blocks/dm_com_cob_dep_1"
+      ]
+    },
+    "dm_com_sand_1": {
+      "textures": [
+        "textures/blocks/dm_com_sand_1"
+      ]
+    },
+    "dm_com_net_1": {
+      "textures": [
+        "textures/blocks/dm_com_net_1"
+      ]
+    },
+    "dm_com_gra_1": {
+      "textures": [
+        "textures/blocks/dm_com_gra_1"
+      ]
+    },
+    "dm_com_cop_1": {
+      "textures": [
+        "textures/blocks/dm_com_cop_1"
+      ]
+    },
+    "dm_com_spr_1": {
+      "textures": [
+        "textures/blocks/dm_com_spr_1"
+      ]
+    },
+    "dm_com_oak_1": {
+      "textures": [
+        "textures/blocks/dm_com_oak_1"
+      ]
+    },
+    "dm_com_bir_1": {
+      "textures": [
+        "textures/blocks/dm_com_bir_1"
+      ]
+    },
+    "dm_com_gran_1": {
+      "textures": [
+        "textures/blocks/dm_com_gran_1"
+      ]
+    },
+    "dm_com_dior_1": {
+      "textures": [
+        "textures/blocks/dm_com_dior_1"
+      ]
+    },
+    "dm_com_ande_1": {
+      "textures": [
+        "textures/blocks/dm_com_ande_1"
+      ]
+    },
+    "dm_com_ston_1": {
+      "textures": [
+        "textures/blocks/dm_com_ston_1"
+      ]
+    },
+    "dm_com_bir_side_1": {
+      "textures": [
+        "textures/blocks/dm_com_bir_side_1"
+      ]
+    },
+    "dm_com_bir_top_1": {
+      "textures": [
+        "textures/blocks/dm_com_bir_top_1"
+      ]
+    },
+    "dm_com_spr_side_1": {
+      "textures": [
+        "textures/blocks/dm_com_spr_side_1"
+      ]
+    },
+    "dm_com_spr_top_1": {
+      "textures": [
+        "textures/blocks/dm_com_spr_top_1"
+      ]
+    },
+    "dm_com_oak_side_1": {
+      "textures": [
+        "textures/blocks/dm_com_oak_side_1"
+      ]
+    },"dm_com_oak_top_1": {
+      "textures": [
+        "textures/blocks/dm_com_oak_top_1"
+      ]
+    }
+  }
+}

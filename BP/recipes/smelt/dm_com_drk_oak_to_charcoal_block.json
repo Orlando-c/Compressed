@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+      "description": {
+      "identifier": "com_drk_oak_to_com_cha"
+      },
+  
+      
+      "tags": ["furnace"],
+      "input": "dm:com_drk_oak_1",
+      "output": "dm:charcoal_block"
+    }
+    
+  }

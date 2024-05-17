@@ -1,0 +1,45 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Compressed",
+	"namespace": "compressed",
+	"authors": [
+		"doctormeme5819"
+	],
+	"targetVersion": "1.20.50",
+	"description": "Compress your blocks!",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": false,
+		"upcomingCreatorFeatures": false,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": false,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Compressed"
+				}
+			]
+		]
+	}
+}

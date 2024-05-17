@@ -1,0 +1,235 @@
+{
+  "dm:com_dir_1": {
+    "textures": "dm_com_dir_1",
+    "sound": "gravel"
+  },
+  "dm:com_sand_1": {
+    "textures": "dm_com_sand_1",
+    "sound": "sand"
+  },
+  "dm:com_net_1": {
+    "textures": "dm_com_net_1",
+    "sound": "netherrack"
+  },
+  "dm:com_gra_1": {
+    "textures": "dm_com_gra_1",
+    "sound": "gravel"
+  },
+  "dm:com_gras_1": {
+    "textures": "dm_com_gras_1",
+    "sound": "grass"
+  },
+  "dm:com_myc_1": {
+    "textures": "dm_com_myc_1",
+    "sound": "grass"
+  },
+  "dm:com_snow_1": {
+    "textures": "dm_com_snow_1",
+    "sound": "snow"
+  },
+  "dm:com_cla_1": {
+    "textures": "dm_com_cla_1",
+    "sound": "gravel"
+  },
+  "dm:com_red_sand_1": {
+    "textures": "dm_com_red_sand_1",
+    "sound": "sand"
+  },
+  "dm:com_soul_1": {
+    "textures": "dm_com_soul_1",
+    "sound": "sand"
+  },
+  "dm:com_obs_1": {
+    "textures": "dm_com_obs_1",
+    "sound": "obsidian"
+  },
+  "dm:com_end_1": {
+    "textures": "dm_com_gra_1",
+    "sound": "normal"
+  },
+  "dm:com_qua_1": {
+    "textures": "dm_com_end_1",
+    "sound": "stone"
+  },
+  "dm:com_cop_1": {
+    "textures": "dm_com_cop_1",
+    "sound": "copper_block"
+  },
+  "dm:com_coal_1": {
+    "textures": "dm_com_gra_1",
+    "sound": "normal"
+  },
+  "dm:charcoal_block": {
+    "textures": "dm_charcoal_block",
+    "sound": "normal"
+  },
+  "dm:com_cha_1": {
+    "textures": "dm_com_cha_1",
+    "sound": "normal"
+  },
+  "dm:com_iro_1": {
+    "textures": "dm_com_iro_1",
+    "sound": "normal"
+  },
+  "dm:com_gol_1": {
+    "textures": "dm_com_gol_1",
+    "sound": "normal"
+  },
+  "dm:com_eme_1": {
+    "textures": "dm_com_eme_1",
+    "sound": "normal"
+  },
+  "dm:com_red_1": {
+    "textures": "dm_com_red_1",
+    "sound": "normal"
+  },
+  "dm:com_lap_1": {
+    "textures": "dm_com_lap_1",
+    "sound": "normal"
+  },
+  "dm:com_dia_1": {
+    "textures": "dm_com_dia_1",
+    "sound": "normal"
+  },
+  "dm:com_neth_1": {
+    "textures": "dm_com_neth_1",
+    "sound": "normal"
+  },
+  "dm:com_hon_1": {
+    "textures": "dm_com_hon_1",
+    "sound": "slime"
+  },
+  "dm:com_sli_1": {
+    "textures": "dm_com_sli_1",
+    "sound": "slime"
+  },
+  "dm:com_oak_1": {
+    "textures": {
+      "up": "dm_com_oak_top_1",
+      "down": "dm_com_oak_top_1",
+      "side": "dm_com_oak_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_bir_1": {
+    "textures": {
+      "up": "dm_com_bir_top_1",
+      "down": "dm_com_bir_top_1",
+      "side": "dm_com_bir_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_spr_1": {
+    "textures": {
+      "up": "dm_com_spr_top_1",
+      "down": "dm_com_spr_top_1",
+      "side": "dm_com_spr_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_drk_oak_1": {
+    "textures": {
+      "up": "dm_com_drk_oak_top_1",
+      "down": "dm_com_drk_oak_top_1",
+      "side": "dm_com_drk_oak_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_aca_1": {
+    "textures": {
+      "up": "dm_com_aca_top_1",
+      "down": "dm_com_aca_top_1",
+      "side": "dm_com_aca_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_jun_1": {
+    "textures": {
+      "up": "dm_com_jun_top_1",
+      "down": "dm_com_jun_top_1",
+      "side": "dm_com_jun_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_che_1": {
+    "textures": {
+      "up": "dm_com_che_top_1",
+      "down": "dm_com_che_top_1",
+      "side": "dm_com_che_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_cri_1": {
+    "textures": {
+      "up": "dm_com_cri_top_1",
+      "down": "dm_com_cri_top_1",
+      "side": "dm_com_cri_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_war_1": {
+    "textures": {
+      "up": "dm_com_war_top_1",
+      "down": "dm_com_war_top_1",
+      "side": "dm_com_war_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_man_1": {
+    "textures": {
+      "up": "dm_com_man_top_1",
+      "down": "dm_com_man_top_1",
+      "side": "dm_com_man_side_1"
+    },
+    "sound": "wood"
+  },
+  "dm:com_dior_1": {
+    "textures": "dm_com_dior_1",
+    "sound": "stone"
+  },
+  "dm:com_ande_1": {
+    "textures": "dm_com_ande_1",
+    "sound": "stone"
+  },
+  "dm:com_gran_1": {
+    "textures": "dm_com_gran_1",
+    "sound": "stone"
+  },
+  "dm:com_ston_1": {
+    "textures": "dm_com_ston_1",
+    "sound": "stone"
+  },
+  "dm:com_cal_1": {
+    "textures": "dm_com_cal_1",
+    "sound": "stone"
+  },
+  "dm:com_tuff_1": {
+    "textures": "dm_com_tuff_1",
+    "sound": "stone"
+  },
+  "dm:com_ame_1": {
+    "textures": "dm_com_ame_1",
+    "sound": "stone"
+  },
+  "dm:com_cob_1": {
+    "textures": "dm_com_cob_1",
+    "sound": "deepslate"
+  },
+  "dm:com_cob_dep_1": {
+    "textures": "dm_com_cob_dep_1",
+    "sound": "cobblestone"
+  },
+  "dm:com_dep_1": {
+    "textures": "dm_com_dep_1",
+    "sound": "deepslate"
+  },
+  "dm:com_smo_ston_1": {
+    "textures": "dm_com_smo_ston_1",
+    "sound": "cobblestone"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

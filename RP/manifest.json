@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Compress your blocks!\n\n Update: Added a multitude of compressed blocks... too many compressed blocks... (This is the full list of compressable blocks. I didnt test my code so be prepared for bugs) \n\nVisit doctormeme5818 on youtube, tiktok, or twitch to support me or to watch tutorials about my addons!",
+		"name": "Compressed - v0.1.0 Resource Pack",
+		"uuid": "07793927-54ce-4e7c-b701-cceef9ea7f27",
+		"version": [
+			0,
+			1,
+			0
+		],
+		"min_engine_version": [
+			1,
+			20,
+			50
+		]
+	},
+	"modules": [
+		{
+			"description": "Compress your blocks!\n\n Update: Added a multitude of compressed blocks... too many compressed blocks... (This is the full list of compressable blocks. I didnt test my code so be prepared for bugs) \n\nVisit doctormeme5818 on youtube, tiktok, or twitch to support me or to watch tutorials about my addons!",
+			"type": "resources",
+			"uuid": "ee04aeaf-af11-42ad-b4e9-bab8778dc342",
+			"version": [
+				0,
+				1,
+				0
+			]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.7.9"
+			],
+			"dash": [
+				"github:bridge-core/dash-compiler#8fa35c73292f6382747d0f411fca26431a6d2c8e"
+			]
+		}
+	}
+}

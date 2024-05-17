@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "com_bir_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:birch_log",
+          "data": 0
+        }
+      },
+      "result": {
+        "item": "dm:com_bir_1",
+        "count": 1
+      }
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "com_cri_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:crimson_stem",
+          "data": 0
+        }
+      },
+      "result": {
+        "item": "dm:com_cri_1",
+        "count": 1
+      }
+    }
+  }

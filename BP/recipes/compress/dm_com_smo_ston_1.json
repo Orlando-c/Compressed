@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "com_smo_ston_1"
+      },
+      "tags": [
+        "crafting_table"
+      ],
+      "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      "key": {
+        "A": {
+          "item": "minecraft:smooth_stone",
+          "data": 0
+        }
+      },
+      "result": {
+        "item": "dm:com_smo_ston_1",
+        "count": 1
+      }
+    }
+  }

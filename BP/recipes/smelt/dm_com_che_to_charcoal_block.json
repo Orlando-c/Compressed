@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+      "description": {
+      "identifier": "com_che_to_charcoal_block"
+      },
+  
+      
+      "tags": ["furnace"],
+      "input": "dm:com_che_1",
+      "output": "dm:charcoal_block"
+    }
+    
+  }
